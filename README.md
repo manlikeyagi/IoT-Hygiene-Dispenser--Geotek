@@ -32,7 +32,7 @@ IoT-Hygiene-Dispenser/
 ## 📸 Images
 (Add your images inside the `images/` folder and link them below)
 
-![IoT Hygiene Dispenser Prototype](images/IMG_4895.HEIC)
+![IoT Hygiene Dispenser Prototype](imagesimages/IMG_4895.HEIC)
 
 *Caption: Prototype of the IoT-Hygiene-Dispenser (GeoTek version).*
 
