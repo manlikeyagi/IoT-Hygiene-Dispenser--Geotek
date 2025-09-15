@@ -6,7 +6,7 @@ The system integrates **fingerprint authentication** and an **ultrasonic sensor*
 ---
 
 ## ✨ Features
-- 🔒 **Fingerprint Authentication** – ensures only authorized users can activate dispensing.  
+- 🔒 **Fingerprint Authentication** – ensures only authorised users can activate dispensing.  
 - 📡 **Ultrasonic Sensor** – detects hand presence for automatic dispensing.  
 - 🚰 **Dual Dispensing System** – dispenses both water and disinfectant.  
 - ⚡ **IoT Integration (optional expansion)** – can be connected to monitor usage data.  
