@@ -34,7 +34,7 @@ Copy code
 ---
 
 ## 📸 Images
-(Add your images inside the `images/` folder and link them below)
+(Add your images inside the `images/IMG_4895.HEIC` folder and link them below)
 
 !(images/IMG_4895.HEIC)  
 *Caption: Prototype of the IoT-Hygiene-Dispenser.*
