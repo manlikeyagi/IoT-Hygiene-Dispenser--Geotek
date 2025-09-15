@@ -34,11 +34,14 @@ Copy code
 ---
 
 ## 📸 Images
-(Add your images inside the `images/IMG_4895.HEIC` folder and link them below)
+## 📸 Images
+(Add your images inside the `images/` folder and link them below)
 
-![Hygiene Dispenser](images/IMG_4895.png)
+![IoT Hygiene Dispenser Prototype](images/IMG_4895.png)
 
-*Caption: Prototype of the IoT-Hygiene-Dispenser.*
+*Caption: Prototype of the IoT-Hygiene-Dispenser showcasing fingerprint and ultrasonic integration.*
+
+
 
 ---
 
