@@ -29,6 +29,13 @@ IoT-Hygiene-Dispenser/
 │── README.md # Documentation
 
 
+## 📸 Images
+(Add your images inside the `images/` folder and link them below)
+
+![IoT Hygiene Dispenser Prototype](images/IMG_4895.HEIC)
+
+*Caption: Prototype of the IoT-Hygiene-Dispenser (GeoTek version).*
+
 
 
 ## 🚀 How It Works
