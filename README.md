@@ -35,7 +35,8 @@ IoT-Hygiene-Dispenser/
 ## 📸 Images
 
 <figure>
-  <img src="images/IMG_4659.HEIC" alt="IoT Hygiene Dispenser Prototype (GeoTek)" style="max-width:100%;height:auto;">
+  <img src="images/IMG_4895.HEIC
+" alt="IoT Hygiene Dispenser Prototype (GeoTek)" style="max-width:100%;height:auto;">
   <figcaption>Prototype of the IoT-Hygiene-Dispenser (GeoTek version) showing fingerprint + ultrasonic integration.</figcaption>
 </figure>
 
