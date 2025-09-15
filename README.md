@@ -28,29 +28,8 @@ IoT-Hygiene-Dispenser/
 │── videos/ # Demo videos (optional, via link)
 │── README.md # Documentation
 
-yaml
-Copy code
-
----
-
-## 📸 Images
-## 📸 Images
-(Add your images inside the `images/` folder and link them below)
-
-![IoT Hygiene Dispenser Prototype](images/IMG_4895.png)
-
-*Caption: Prototype of the IoT-Hygiene-Dispenser showcasing fingerprint and ultrasonic integration.*
 
 
-
----
-
-## 🎥 Demo Video
-(Upload your demo to YouTube or GitHub and link here)
-
-[▶️ Watch the Demo](https://www.youtube.com/)  
-
----
 
 ## 🚀 How It Works
 1. User places finger on the fingerprint scanner.  
