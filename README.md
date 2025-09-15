@@ -32,10 +32,13 @@ IoT-Hygiene-Dispenser/
 ## 📸 Images
 (Add your images inside the `images/` folder and link them below)
 
-<h3 align="center">🔧  Prototype of the IoT-Hygiene-Dispenser (GeoTek version)</h3>
-<p align="center">
-  <img src ="IMG_4655.HEIC" width="600"/>
-</p>
+## 📸 Images
+
+<figure>
+  <img src="images/IMG_4655.png" alt="IoT Hygiene Dispenser Prototype (GeoTek)" style="max-width:100%;height:auto;">
+  <figcaption>Prototype of the IoT-Hygiene-Dispenser (GeoTek version) showing fingerprint + ultrasonic integration.</figcaption>
+</figure>
+
 
 *Caption: Prototype of the IoT-Hygiene-Dispenser (GeoTek version).*
 
